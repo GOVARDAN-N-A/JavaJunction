@@ -6,9 +6,6 @@ Welcome to the Java Junction website—a delightful space for coffee enthusiasts
 
 1. **Aroma Heaven**
    - Sip your way into bliss at Aroma Heaven, where every cup tells a story.
-   - ![Aroma Heaven](images/../assets/images/67262aad-65b6-4758-bf97-aef29e3880bb.png)
- <img src="images/../assets/images/67262aad-65b6-4758-bf97-aef29e3880bb.png" alt="Aroma Heaven" width="600" height="400">
-
 
 2. **Denim Brews**
    - Denim Dreams in Every Sip - Denim Coffee Delight.
