@@ -20,9 +20,9 @@ Welcome to the Java Junction website—a delightful space for coffee enthusiasts
 5. **Contact Information**
    - Order Now
    - Stay in the loop with the latest updates and exclusive deals.
-   - Email: javajunction@gova.com
-   - Call: +91 92345 84536
-   - Text: +91 98597 84536
+   - Email: javajunction@gova.com (Eg)
+   - Call: +91 92345 84536 (Eg)
+   - Text: +91 98597 84536 (Eg)
    - Follow Us: 47 South India, TamilNadu, Trichy - 08
 
 6. **Coffee Shop**
